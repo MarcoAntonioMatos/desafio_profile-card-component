@@ -36,7 +36,7 @@ Desafios do Frontend Mentor ajudam você a melhorar suas habilidades de desenvol
 
 ### O que eu aprendi
 
-Aprendi muito sobre centralização com flexbox e passei a usa-lo com mais dominío, e pude estilizar o card com facilidade.
+Aprendi muito sobre centralização com flexbox e passei a usa-lo com mais domínio, e pude estilizar o card com facilidade.
 
 ## Autor
 - #### Marco Antonio
