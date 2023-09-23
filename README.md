@@ -1,6 +1,6 @@
 # Frontend Mentor - Solução do Profile card component
 
-Essa é uma Solução do [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+Essa é uma Solução do [Profile Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). 
 Desafios do Frontend Mentor ajudam você a melhorar suas habilidades de desenvolvedor construindo projetos realistas.
 
 ## Tabela de Conteúdos
